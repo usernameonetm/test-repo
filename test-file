@@ -3,6 +3,6 @@ testing
 test change 1
 {
 	foo
-	bat
+	bar
 	baz
 }
