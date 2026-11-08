@@ -1,1 +1,8 @@
 testing
+
+test change 1
+{
+	foo
+	bat
+	baz
+}
